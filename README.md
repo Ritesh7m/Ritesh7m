@@ -9,7 +9,6 @@
 <h2>📚 About Me</h2>
 
 - 💻 Full Stack Developer specializing in **MERN Stack** and modern web technologies  
-- ⚙️ Skilled in building scalable APIs, efficient database operations, and responsive UI/UX  
 - 📍 Based in **Mumbai, Maharashtra, India**  
 - ✉️ Reach me at: **maurya.ritesh2005@gmail.com**  
 - 🌐 Visit my portfolio → [**riteshmaurya7.vercel.app**](https://riteshmaurya7.vercel.app)  
