@@ -70,11 +70,18 @@ A fully functional e-learning portal with secure and scalable online education
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh7m&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ritesh7m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical" height="180" alt="Top languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ritesh7m&show_icons=true&theme=radical&cache_seconds=1800" 
+    height="180" 
+    alt="GitHub stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh7m&layout=compact&langs_count=6&theme=radical&cache_seconds=1800" 
+    height="180" 
+    alt="Top languages" 
+  />
 </div>
 
----
 
 <h2>🏆 LeetCode Stats</h2>
 
