@@ -45,9 +45,9 @@
 
 <div align="center">
 
-### 💭 *"First, solve the problem. Then, write the code."* 
+### 💭 *"First, solve the problem. Then, write the code."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ritesh7m&color=blueviolet&style=flat-square)
 
 **Thanks for visiting! Feel free to reach out** 🚀
 
