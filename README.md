@@ -46,6 +46,25 @@ A fully functional e-learning portal with secure and scalable online education
 
 ---
 
+<h2>🤝 Open Source Contributions</h2>
+
+### 🔹 [Helpmate-AI](https://github.com/Ritesh7m/Helpmate-AI)
+Forked from [codeaashu/Helpmate-AI](https://github.com/codeaashu/Helpmate-AI)  
+An AI Chat Bot web application where users can ask questions and receive intelligent responses  
+- Contributing to feature development and bug fixes  
+- Tech stack: **AI/ML**, **Web Development**
+
+---
+
+### 🔹 [YARN.com](https://github.com/Ritesh7m/YARN.com)
+Forked from [YARN-com/YARN.com](https://github.com/YARN-com/YARN.com)  
+An open-source platform for preserving community stories, local wisdom, and lived experiences  
+- Contributing to the development of collaborative storytelling features  
+- Helping build a structured platform for community knowledge preservation  
+- Tech stack: **Full Stack Development**
+
+---
+
 <h2>🛠️ Technologies & Tools</h2>
 
 <div align="left">
@@ -66,21 +85,6 @@ A fully functional e-learning portal with secure and scalable online education
 </div>
 
 ---
-
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ritesh7m&show_icons=true&theme=radical&cache_seconds=1800" 
-    height="180" 
-    alt="GitHub stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh7m&layout=compact&langs_count=6&theme=radical&cache_seconds=1800" 
-    height="180" 
-    alt="Top languages" 
-  />
-</div>
 
 
 <h2>🏆 LeetCode Stats</h2>
