@@ -86,6 +86,17 @@ An open-source platform for preserving community stories, local wisdom, and live
 
 ---
 
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats-lilac-delta-38.vercel.app/api?username=Ritesh7m&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-lilac-delta-38.vercel.app/api/top-langs?username=Ritesh7m&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=4&theme=radical&hide_border=false" alt="Top Languages" />
+</div>
+
+---
 
 <h2>🏆 LeetCode Stats</h2>
 
