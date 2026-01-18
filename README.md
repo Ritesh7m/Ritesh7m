@@ -19,7 +19,7 @@
 
 <h2>🚀 Projects</h2>
 
-### 🔹 [LeetCode Status Tracker](https://github.com/Ritesh7m/leetcode-status-tracker) — [Live Demo](https://leetcode-status-vert.vercel.app/)
+### 🔹 [LeetCode Status Tracker](https://github.com/Ritesh7m/leetcode-status-tracker) — [Live Demo](https://leetstatus.vercel.app/)
 A responsive web application to fetch and display LeetCode user statistics  
 - Built with React and Tailwind CSS for a clean and intuitive UI  
 - Implemented real-time data fetching and difficulty-wise problem breakdown using Axios  
@@ -37,7 +37,7 @@ A feature-rich e-commerce website for a water filter company
 
 ---
 
-### 🔹 [StudyNotion E-Learning Platform](https://github.com/Ritesh7m/studynotion) — [Live Demo](https://study-notion-amber-ten.vercel.app/)
+### 🔹 [StudyNotion E-Learning Platform](https://github.com/Ritesh7m/studynotion) — [Live Demo](https://studywebapp.vercel.app/)
 A fully functional e-learning portal with secure and scalable online education  
 - Developed 10+ features including course creation, video streaming, and secure JWT authentication  
 - Integrated Razorpay for payment processing with automatic invoice generation  
