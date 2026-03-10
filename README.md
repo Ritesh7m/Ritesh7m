@@ -1,139 +1,155 @@
 <h1 align="center">Hi there! 👋 I'm Ritesh Maurya</h1>
 
 <p align="center">
-  <em>A passionate Web Developer crafting dynamic and user-friendly web applications. 🚀</em>
+  <em>A passionate Full Stack Web Developer crafting scalable and user-friendly web applications 🚀</em>
 </p>
 
 ---
 
-<h2>📚 About Me</h2>
+# 📚 About Me
 
-- 💻 Full Stack Developer specializing in **MERN Stack** and modern web technologies  
-- 📍 Based in **Mumbai, Maharashtra, India**  
-- ✉️ Reach me at: **maurya.ritesh2005@gmail.com**  
-- 🌐 Visit my portfolio → [**riteshmaurya7.vercel.app**](https://riteshmaurya7.vercel.app)  
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-maurya-7459s/)  
-- 🧠 Always learning, optimizing, and solving problems on [LeetCode](https://www.leetcode.com/_ritesh7459)  
-
----
-
-<h2>🚀 Projects</h2>
-
-### 🔹 [LeetCode Status Tracker](https://github.com/Ritesh7m/leetcode-status-tracker) — [Live Demo](https://leetstatus.vercel.app/)
-A responsive web application to fetch and display LeetCode user statistics  
-- Built with React and Tailwind CSS for a clean and intuitive UI  
-- Implemented real-time data fetching and difficulty-wise problem breakdown using Axios  
-- Added loading states, error handling, and reusable components to improve performance and user experience  
-- Tech stack: **React**, **Tailwind CSS**, **Axios**, **Vite**
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- 🎓 4-year **Information Technology Engineering Student**
+- 📍 Based in **Mumbai, Maharashtra, India**
+- ✉️ Reach me at: **maurya.ritesh2005@gmail.com**
+- 🌐 Portfolio: **https://riteshmaurya7.vercel.app**
+- 💼 LinkedIn: **https://www.linkedin.com/in/ritesh-maurya-7459s/**
+- 🧠 Practicing Data Structures & Algorithms on **LeetCode**
 
 ---
 
-### 🔹 [RS Enterprises E-commerce](https://github.com/Ritesh7m/rs-enterprises) — [Live Demo](https://rs-enterprises-frontend.vercel.app/)
-A feature-rich e-commerce website for a water filter company  
-- Deployed 30+ products with JWT-based authentication and secure payment integration (Stripe, COD)  
-- Automated order processing to improve customer satisfaction  
-- Built admin panel for order tracking, inventory management, and stock status updates  
-- Tech stack: **MongoDB**, **Express**, **React**, **Node.js**, **Stripe API**
+# 🚀 Featured Project
+
+### 🔹 PasteBin Clone (RPaste)  
+🔗 **Live Demo:** https://rpaste.vercel.app  
+
+A modern web application that enables users to **create, manage, and share code snippets or text-based content efficiently**. The platform offers a clean interface for organizing pastes and generating shareable links for easy collaboration.
+
+**Key Features**
+- Create and store code snippets with title and formatted content  
+- View saved pastes with timestamps and content preview  
+- Edit existing pastes to update snippets  
+- Delete unnecessary pastes for better management  
+- Search functionality to quickly locate pastes  
+- Generate shareable links for easy collaboration  
+- Fully responsive design for seamless usage across devices  
+
+**Tech Stack:** React, Tailwind CSS, Vite
+
+---
+### 🔹 StudyNotion E-Learning Platform  
+🔗 **Live Demo:** https://studywebapp.vercel.app/  
+🔗 **GitHub:** https://github.com/Ritesh7m/studynotion  
+
+A full-featured **EdTech platform** that allows instructors to create courses and students to access structured learning content online.
+
+**Key Features**
+- Course creation and video-based learning system
+- Secure authentication with **JWT**
+- Integrated **Razorpay payment gateway**
+- Student and Instructor dashboards with progress tracking
+
+**Tech Stack:** MongoDB, Express, React, Node.js, Razorpay
 
 ---
 
-### 🔹 [StudyNotion E-Learning Platform](https://github.com/Ritesh7m/studynotion) — [Live Demo](https://studywebapp.vercel.app/)
-A fully functional e-learning portal with secure and scalable online education  
-- Developed 10+ features including course creation, video streaming, and secure JWT authentication  
-- Integrated Razorpay for payment processing with automatic invoice generation  
-- Built student and instructor dashboards with course progress monitoring for 100+ active users  
-- Tech stack: **MongoDB**, **Express**, **React**, **Node.js**, **Razorpay**
+# 💻 Full Stack Projects
+
+### 🔹 RS Enterprises E-commerce  
+🔗 **Live Demo:** https://rs-enterprises-frontend.vercel.app/  
+🔗 **GitHub:** https://github.com/Ritesh7m/rs-enterprises  
+
+A feature-rich e-commerce website built for a **water purification business**, enabling customers to browse products and place orders securely.
+
+**Key Features**
+- Deployed **30+ products** with secure **JWT authentication**
+- Integrated **Stripe and Cash on Delivery (COD)** payment options
+- Developed **Admin Dashboard** for order tracking and inventory management
+- Automated order processing and order status updates
+
+**Tech Stack:** MongoDB, Express, React, Node.js, Stripe API
 
 ---
 
-<h2>🤝 Open Source Contributions</h2>
+# 🤝 Open Source Contributions
 
-### 🔹 [Helpmate-AI](https://github.com/Ritesh7m/Helpmate-AI)
-Forked from [codeaashu/Helpmate-AI](https://github.com/codeaashu/Helpmate-AI)  
-An AI Chat Bot web application where users can ask questions and receive intelligent responses  
+### 🔹 Helpmate-AI
+Forked from **codeaashu/Helpmate-AI**
+
+An AI-powered chatbot web application where users can ask questions and receive intelligent responses.
+
 - Contributing to feature development and bug fixes  
-- Tech stack: **AI/ML**, **Web Development**
+- Tech stack: **AI / Web Development**
 
 ---
 
-### 🔹 [YARN.com](https://github.com/Ritesh7m/YARN.com)
-Forked from [YARN-com/YARN.com](https://github.com/YARN-com/YARN.com)  
-An open-source platform for preserving community stories, local wisdom, and lived experiences  
-- Contributing to the development of collaborative storytelling features  
-- Helping build a structured platform for community knowledge preservation  
+### 🔹 YARN.com
+Forked from **YARN-com/YARN.com**
+
+An open-source platform designed to preserve **community stories and local knowledge**.
+
+- Contributing to collaborative storytelling features  
+- Improving platform structure and usability  
 - Tech stack: **Full Stack Development**
 
 ---
 
-<h2>🛠️ Technologies & Tools</h2>
+# 🛠️ Technologies & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-</div>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+# 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-lilac-delta-38.vercel.app/api?username=Ritesh7m&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+<p align="center">
+<img src="https://github-readme-stats-lilac-delta-38.vercel.app/api?username=Ritesh7m&show_icons=true&theme=radical"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats-lilac-delta-38.vercel.app/api/top-langs?username=Ritesh7m&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=4&theme=radical&hide_border=false" alt="Top Languages" />
-</div>
-
----
-
-<h2>🏆 LeetCode Stats</h2>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/_ritesh7459?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
-</div>
+<p align="center">
+<img src="https://github-readme-stats-lilac-delta-38.vercel.app/api/top-langs?username=Ritesh7m&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-<h2>🌱 Fun Fact</h2>
+# 🏆 LeetCode Stats
 
-> "First, solve the problem. Then, write the code."
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/_ritesh7459?theme=dark&font=Noto%20Sans&ext=heatmap"/>
+</p>
 
 ---
 
-<h2>✨ Connect with Me</h2>
+# 🌱 Fun Fact
 
-<div align="left">
-  <a href="mailto:maurya.ritesh2005@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/ritesh-maurya-7459s/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://riteshmaurya7.vercel.app/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
-  </a>
-  <a href="https://www.leetcode.com/_ritesh7459">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/Ritesh7m">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
-  </a>
-</div>
+> **"First, solve the problem. Then, write the code."**
+
+---
+
+# ✨ Connect with Me
+
+<p>
+<a href="mailto:maurya.ritesh2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ritesh-maurya-7459s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://riteshmaurya7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://www.leetcode.com/_ritesh7459"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/Ritesh7m"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <em>Let's build amazing things together, one line of code at a time! 🌟</em>
+<em>Let's build amazing things together, one line of code at a time! 🌟</em>
 </p>
