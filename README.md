@@ -20,7 +20,7 @@
 
 # 🚀 Featured Project
 
-### 🔹 PasteBin Clone (RPaste)  
+### 🔹 Quick Paste  
 🔗 **Live Demo:** https://rpaste.vercel.app  
 
 A modern web application that enables users to **create, manage, and share code snippets or text-based content efficiently**. The platform offers a clean interface for organizing pastes and generating shareable links for easy collaboration.
