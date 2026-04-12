@@ -56,8 +56,8 @@ A full-featured **EdTech platform** that allows instructors to create courses an
 # 💻 Full Stack Projects
 
 ### 🔹 RS Enterprises E-commerce  
-🔗 **Live Demo:** https://rs-enterprises-frontend.vercel.app/  
-🔗 **GitHub:** https://github.com/Ritesh7m/rs-enterprises  
+🔗 **Live Demo:** https:https://rsenterprisesapp.vercel.app/ 
+🔗 **GitHub:** https://github.com/Ritesh7m/Rs-ecommerce
 
 A feature-rich e-commerce website built for a **water purification business**, enabling customers to browse products and place orders securely.
 
